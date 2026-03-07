@@ -1,0 +1,8 @@
+
+--- Random Forest ---
+Acurácia: 0.7669
+Recall:   0.7246
+
+--- Regressao Logistica ---
+Acurácia: 0.7758
+Recall:   0.6390
